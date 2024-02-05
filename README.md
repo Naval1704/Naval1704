@@ -44,6 +44,6 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naval1704&theme=tokyonight" alt="naval1704" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=travelers-theme&hide_border=true" alt="naval1704" />
 </p>
 
