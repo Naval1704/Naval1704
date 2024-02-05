@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Gaurav Naval </h1>
 <h2 align="center">A Passionate Developer from India</h2>
-<h3 align="center">I like building Quality Projects and Gaining a lot of experience</h3>
+<h2 align="center">I like building Quality Projects and Gaining a lot of experience</h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naval1704&label=Profile%20views&color=0e75b6&style=flat" alt="naval1704" /> </p>
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif?cid=790b7611s34uk3ef8nlki4ufycjxl5lj99c8synekztintgc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="naval1704" />
 
