@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android , MERN , Backend**
 
-- ⚡ Fun fact **There's no fun fact :)**
+- ⚡ Fun fact **Talk to me you'll find something :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
