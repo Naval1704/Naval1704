@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **gauravnaval003@gmail.com**
 
-- 💬 Ask me about **Android , MERN , Backend**
+- 💬 Ask me about **Android , MERN , Frontend**
 
 - ⚡ Fun fact **Talk to me you'll find something :)**
 
