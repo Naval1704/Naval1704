@@ -119,8 +119,8 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </div>
-<br/>
-<summary>💻 GitHub Profile Stats</summary>
+<hr/>
+<h3 align="left">💻 GitHub Profile Stats:</h3>
 <div>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=naval1704&theme=radical&hide_border=true" alt="naval1704" />
@@ -132,7 +132,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=naval1704&theme=tokyo-night&hide_border=true" width="100%" />
   </p>
 </div>
-
+<hr/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=naval1704&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
