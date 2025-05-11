@@ -3,7 +3,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Gaurav Naval </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C3483&center=true&vCenter=true&random=false&width=600&height=60&lines=Android+Developer;MERN+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C3483&center=true&vCenter=true&random=false&width=600&height=60&lines=Software+Developer" alt="Typing SVG" />
 </div>
 
 <h2 align="center">Finding innovative solutions to challenging problems is what I like the most, a skill I utilize in both my professional projects and personal Life.</h2>
@@ -36,53 +36,115 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=android,java,kotlin,flutter,react,nodejs,express,mongodb,js,html,css" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,c,cpp,py,mysql,postgresql,tensorflow,pytorch,figma,git" />
+  <!-- Row 1 -->
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer" title="Android">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer" title="Kotlin">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer" title="Flutter">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  
+  <!-- Row 2 -->
+  <br/><br/>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="TensorFlow">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" title="PyTorch">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  
+  <!-- Add other technologies you mentioned in your original profile -->
+  <a href="https://graphql.org" target="_blank" rel="noreferrer" title="GraphQL">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" title="MATLAB">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer" title="OpenCV">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="scikit-learn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" title="Seaborn">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
 </div>
 
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h3>🔥 Streak Stats</h3>
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=naval1704&theme=radical&hide_border=true" alt="naval1704" />
-    </p>
-    <h3>💻 Most Used Languages</h3>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naval1704&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-    </p>
-    <h3>📊 Contribution Graph</h3>
-    <p align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=naval1704&theme=tokyo-night&hide_border=true" width="100%" />
-    </p>
-    <h3>🏆 GitHub Trophies</h3>
-    <p align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=naval1704&theme=radical&no-frame=true&column=7" width="100%" />
-    </p>
-  </div>
-</details>
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-  <!--RECENT_ACTIVITY:start-->
-  <!-- This section will be automatically updated by a GitHub workflow -->
-  <!--RECENT_ACTIVITY:end-->
-  
-</details>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/naval1704/naval1704/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<summary>💻 GitHub Profile Stats</summary>
+<div>
+  <h3>🔥 Streak Stats</h3>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=naval1704&theme=radical&hide_border=true" alt="naval1704" />
+  </p>
+  <h3>💻 Most Used Languages</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naval1704&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  </p>
+  <h3>📊 Contribution Graph</h3>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naval1704&theme=tokyo-night&hide_border=true" width="100%" />
+  </p>
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=naval1704&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&fontSize=90" />
 </div>
