@@ -127,15 +127,14 @@
 
 <summary>💻 GitHub Profile Stats</summary>
 <div>
-  <h3>🔥 Streak Stats</h3>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=naval1704&theme=radical&hide_border=true" alt="naval1704" />
   </p>
-  <h3>💻 Most Used Languages</h3>
+  <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naval1704&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
   </p>
-  <h3>📊 Contribution Graph</h3>
+  <br/>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=naval1704&theme=tokyo-night&hide_border=true" width="100%" />
   </p>
