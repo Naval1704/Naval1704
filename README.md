@@ -36,7 +36,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <!-- Row 1 -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" title="Android">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -70,8 +69,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  
-  <!-- Row 2 -->
   <br/><br/>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -103,8 +100,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  
-  <!-- Add other technologies you mentioned in your original profile -->
   <a href="https://graphql.org" target="_blank" rel="noreferrer" title="GraphQL">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
@@ -124,17 +119,15 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </div>
-
+<br/>
 <summary>💻 GitHub Profile Stats</summary>
 <div>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=naval1704&theme=radical&hide_border=true" alt="naval1704" />
   </p>
-  <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naval1704&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
   </p>
-  <br/>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=naval1704&theme=tokyo-night&hide_border=true" width="100%" />
   </p>
